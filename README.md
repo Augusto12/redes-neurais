@@ -8,7 +8,7 @@
 
 ## Performance
 
-O modelo treinado possui performance de **94,1%** (valor obtido a partir da média dos valores de acurácia no conjunto de validação).
+O modelo treinado possui performance de **94,1%** (valor obtido a partir da média dos valores de acurácia obtidos para cada época no conjunto de validação).
 
 ### Output do bloco de treinamento
 
