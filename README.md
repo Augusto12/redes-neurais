@@ -27,7 +27,7 @@ Nessa seção você deve colocar qualquer evidência do treinamento, como por ex
 - Gráficos de Perda:
   - Train Loss:
 
-<iframe src="https://wandb.ai/felipeaugusto1291/modelos-preditivos-conexionistas/reports/train-loss-23-10-28-22-41-28---Vmlldzo1ODA4OTcw?accessToken=zuk3j4as6vzytfdxa73y470rgusz299y1y0cdzpdc75nx0v1je75pk2k359bn8wf" style="border:none;height:1024px;width:100%">
+<img src="https://wandb.ai/felipeaugusto1291/modelos-preditivos-conexionistas/reports/train-loss-23-10-28-22-41-28---Vmlldzo1ODA4OTcw?accessToken=zuk3j4as6vzytfdxa73y470rgusz299y1y0cdzpdc75nx0v1je75pk2k359bn8wf" style="border:none;height:1024px;width:100%">
 
   - Valid Loss:
 ![Descrição](https://picsum.photos/seed/picsum/500/300)
