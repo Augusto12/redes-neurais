@@ -13,7 +13,7 @@ O modelo treinado possui performance de **94,1%** (valor obtido a partir da méd
 ### Output do bloco de treinamento
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Clique para expandir!</summary>
   
   ```text
 
